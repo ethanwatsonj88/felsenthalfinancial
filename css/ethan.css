@@ -2,5 +2,15 @@
 
 .icons {
 	
-	width:30px
+	width:30px;
+}
+
+h1 {
+	letter-spacing: 7px;
+	
+}
+
+h2 {
+	font-style: italic;
+	
 }
